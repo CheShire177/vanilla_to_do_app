@@ -1,0 +1,28 @@
+.done {
+    text-decoration: line-through;
+}
+
+.in-progress {
+    color: green;
+    font-weight: bold;
+}
+
+.new {
+    color: black;
+}
+
+li {
+    cursor: pointer;
+}
+
+#app {
+    width: 400px;
+    margin: auto;
+}
+
+#app input {
+    width: 250px;
+    display: block;
+    margin: auto;
+}
+

@@ -1,0 +1,15 @@
+{
+  "name": "vanilla_to_do_app",
+  "version": "0.0.0",
+  "description": "Vanilla todo app from NeKit",
+  "main": "index.js",
+  "scripts": {
+    "build": "tsc"
+  },
+  "author": "NeKit",
+  "license": "MIT",
+  "dependencies": {},
+  "devDependencies": {
+    "typescript": "^4.5.4"
+  }
+}
